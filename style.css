@@ -2,8 +2,9 @@ body{
     display: flex;
     justify-content: center;
     justify-items: center;
+    flex-wrap: wrap;
 }
-h1{
+h1, h2{
     font-size: 5rem;
     color: red;
 }
