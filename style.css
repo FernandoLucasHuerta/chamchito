@@ -1,4 +1,11 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
 h1,h2,h2,p{
     font-size: 5rem;
     color: aquamarine;
+    font-weight: 600;
 }
